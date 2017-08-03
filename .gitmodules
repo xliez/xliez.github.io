@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-zone"]
+	path = themes/hexo-theme-zone
+	url = git@github.com:xliez/hexo-theme-zone.git
