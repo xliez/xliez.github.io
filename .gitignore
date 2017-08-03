@@ -3,3 +3,4 @@ node_modules/
 public/
 themes/next/
 themes/ts/
+db.json
